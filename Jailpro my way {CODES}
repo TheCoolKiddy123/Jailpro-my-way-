@@ -1,0 +1,22 @@
+/Jail (how much cells)
+Adds up to 10 cells. 
+
+/Pro {Username}
+Bans all the inmates commands.
+
+/Pardon {Username}
+Allows you to let someone out of there jail cell
+
+/Console {Username}
+Allows you to put someone in charge of the commands (Like OP!)
+
+/Fired-Console
+That person gets kicked out of the mission control.
+
+/jail letter
+someone writes why you got in there
+
+/pay-jail
+Allows you to put in 8 diamonds, or 12 gold to get a pardon!
+
+
